@@ -32,6 +32,11 @@ namespace Monopoly
             properties.Add(property);
         }
 
+        public List<Property> getProperties()
+        {
+            return properties;
+        }
+
         public String printProperties()
         {
             StringBuilder sb = new StringBuilder();
@@ -45,6 +50,11 @@ namespace Monopoly
         public void setJailed(bool active)
         {
             this.jailed = active;
+        }
+
+        public String getName()
+        {
+            return this.name;
         }
     }
 }
