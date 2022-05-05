@@ -8,5 +8,13 @@ namespace Monopoly
 {
     internal class Field
     {
+        private string name;
+
+        public Field(string name)
+        {
+            this.name = name;
+        }
+        
+        
     }
 }

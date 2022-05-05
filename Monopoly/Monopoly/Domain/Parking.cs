@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Monopoly
 {
-    internal class Tax
+    internal class Parking
     {
+
+        public Parking(){
+}
     }
 }

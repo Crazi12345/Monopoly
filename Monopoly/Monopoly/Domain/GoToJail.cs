@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Monopoly
 {
-    internal class GameHandler
+    internal class GoToJail
     {
+        public GoToJail()
+        {
+
+        }
     }
 }

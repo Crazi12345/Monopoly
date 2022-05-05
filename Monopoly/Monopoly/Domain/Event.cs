@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Monopoly
 {
-    internal class Board
+    internal interface Event
     {
+        string name { get; }
+
     }
 }
