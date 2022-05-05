@@ -7,4 +7,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="MonopolyBoardFull.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="MonopolyBoardFull.jpg" />
+  </ItemGroup>
+
 </Project>
