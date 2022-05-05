@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Monopoly
 {
-    internal class GameHandler
+    internal class Board
     {
+        private List<Field> fields;
+
+
+        public Board()
+        {
+            this.fields = new List<Field>();
+        }
+
+
     }
 }
