@@ -27,5 +27,24 @@ namespace Monopoly
             return balance;
         }
 
+        public void addProperty(Property property)
+        {
+            properties.Add(property);
+        }
+
+        public String printProperties()
+        {
+            StringBuilder sb = new StringBuilder();
+            foreach (Property property in properties)
+            {
+                sb.Append(property);
+            }
+            return sb.ToString();
+        }
+
+        public void setJailed(bool active)
+        {
+            this.jailed = active;
+        }
     }
 }
