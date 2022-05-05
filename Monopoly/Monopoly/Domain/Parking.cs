@@ -8,5 +8,8 @@ namespace Monopoly
 {
     internal class Parking
     {
+
+        public Parking(){
+}
     }
 }

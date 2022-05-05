@@ -20,5 +20,13 @@ namespace Monopoly
             this.currentPlayer = currentPlayer;
         }
 
+        public void setCurrentPlayer(Player player)
+        {
+            currentPlayer = player;
+        }
+        public Player getPlayer()
+        {
+            return currentPlayer;
+        }
     }
 }

@@ -8,5 +8,14 @@ namespace Monopoly
 {
     internal class Chance
     {
+
+        private string text;
+        private int amount;
+
+        public Chance(string text, int amount)
+        {
+            this.text = text;
+            this.amount = amount;
+        }
     }
 }

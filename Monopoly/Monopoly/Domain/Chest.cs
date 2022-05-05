@@ -8,5 +8,13 @@ namespace Monopoly
 {
     internal class Chest
     {
+        private string text;
+        private int amount;
+
+        public Chest(string text, int amount)
+        {
+            this.text = text;
+            this.amount = amount;
+        }
     }
 }
