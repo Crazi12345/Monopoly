@@ -8,10 +8,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove=".png" />
+    <None Remove="CityBackground.jpg" />
+    <None Remove="Lgoo.png" />
+    <None Remove="Logo.jpg" />
     <None Remove="MonopolyBoardFull.jpg" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include=".png" />
+    <Resource Include="CityBackground.jpg" />
+    <Resource Include="Lgoo.png" />
+    <Resource Include="Logo.jpg" />
     <Resource Include="MonopolyBoardFull.jpg" />
   </ItemGroup>
 

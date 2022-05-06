@@ -40,3 +40,7 @@ C:\Users\katri\OneDrive\Dokumenter\Projects\Monopoly\Monopoly\Monopoly\obj\Debug
 C:\Users\katri\OneDrive\Dokumenter\Projects\Monopoly\Monopoly\Monopoly\obj\Debug\net6.0-windows\Monopoly.pdb
 C:\Users\katri\OneDrive\Dokumenter\Projects\Monopoly\Monopoly\Monopoly\obj\Debug\net6.0-windows\Monopoly.genruntimeconfig.cache
 C:\Users\katri\OneDrive\Dokumenter\Projects\Monopoly\Monopoly\Monopoly\obj\Debug\net6.0-windows\ref\Monopoly.dll
+C:\Users\patri\Skrivebord\Personal-Projects\C#\monopoly\Monopoly\Monopoly\obj\Debug\net6.0-windows\Game.g.cs
+C:\Users\patri\Skrivebord\Personal-Projects\C#\monopoly\Monopoly\Monopoly\obj\Debug\net6.0-windows\Game.baml
+C:\Users\patri\Skrivebord\Personal-Projects\C#\monopoly\Monopoly\Monopoly\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\patri\Skrivebord\Personal-Projects\C#\monopoly\Monopoly\Monopoly\obj\Debug\net6.0-windows\Menu.baml

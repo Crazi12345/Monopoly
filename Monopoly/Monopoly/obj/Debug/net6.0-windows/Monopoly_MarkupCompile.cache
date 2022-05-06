@@ -10,16 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\patri\Skrivebord\Personal-Projects\C#\monopoly\Monopoly\Monopoly\App.xaml
-11407045341
+3-1345771539
 
-<<<<<<< HEAD
-20-247576961
-194-1951243044
-=======
-19-1921493801
+22-2123568906
 194-164764702
->>>>>>> 25e2f16f2114102a7ded20fc8231f0334ee9c92e
-MainWindow.xaml;
+Game.xaml;MainWindow.xaml;Menu.xaml;
 
 False
 
