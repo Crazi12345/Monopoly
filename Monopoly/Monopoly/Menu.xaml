@@ -12,7 +12,7 @@
             <ColumnDefinition Width="37*"/>
             <ColumnDefinition Width="763*"/>
         </Grid.ColumnDefinitions>
-        <Image HorizontalAlignment="Left" Height="1054" VerticalAlignment="Center" Width="1922" Margin="23,0,0,0" Source="/CityBackground.jpg" Grid.ColumnSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="1054" VerticalAlignment="Top" Width="1922" Margin="2,0,0,0" Source="/CityBackground.jpg" Grid.ColumnSpan="2"/>
         <Button x:Name="StartBtn" Content="Start" Click="StartBtn_Click" HorizontalAlignment="Left" Margin="681,0,0,0" VerticalAlignment="Center" RenderTransformOrigin="4.997,6.814" Height="139" Width="380" Foreground="White" Background="Red" FontSize="36" FontFamily="Cascadia Mono SemiBold" Grid.Column="1"/>
         <Button x:Name="ExitBtn" Content="Exit" Click="ExitBtn_Click" HorizontalAlignment="Left" Margin="681,777,0,0" VerticalAlignment="Top" RenderTransformOrigin="4.997,6.814" Height="139" Width="382" Foreground="White" Background="Red" FontSize="30" FontFamily="Cascadia Mono SemiBold" Grid.Column="1"/>
         <Image x:Name="HeaderLogo" HorizontalAlignment="Left" Height="388" Margin="538,48,0,0" VerticalAlignment="Top" Width="709" Source="/Lgoo.png" Grid.Column="1"/>
