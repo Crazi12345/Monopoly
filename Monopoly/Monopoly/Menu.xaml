@@ -16,6 +16,12 @@
         <Button x:Name="StartBtn" Content="Start" Click="StartBtn_Click" HorizontalAlignment="Left" Margin="681,0,0,0" VerticalAlignment="Center" RenderTransformOrigin="4.997,6.814" Height="139" Width="380" Foreground="White" Background="Red" FontSize="36" FontFamily="Cascadia Mono SemiBold" Grid.Column="1"/>
         <Button x:Name="ExitBtn" Content="Exit" Click="ExitBtn_Click" HorizontalAlignment="Left" Margin="681,777,0,0" VerticalAlignment="Top" RenderTransformOrigin="4.997,6.814" Height="139" Width="382" Foreground="White" Background="Red" FontSize="30" FontFamily="Cascadia Mono SemiBold" Grid.Column="1"/>
         <Image x:Name="HeaderLogo" HorizontalAlignment="Left" Height="388" Margin="538,48,0,0" VerticalAlignment="Top" Width="709" Source="/Lgoo.png" Grid.Column="1"/>
-
+        <Button x:Name="HelpBtn" Content="?" Click="HelpBtn_Click" HorizontalAlignment="Left" Margin="1665,48,0,0" VerticalAlignment="Top" RenderTransformOrigin="4.997,6.814" Height="91" Width="98" Foreground="Red" Background="Transparent" FontSize="70" FontFamily="Cascadia Mono SemiBold" Grid.Column="1"/>
+        <Popup x:Name="HelpPopup" Grid.Column="1" HorizontalAlignment="Left" Margin="597,242,0,0" VerticalAlignment="Top" Height="437" Width="706" IsOpen="True">
+            <StackPanel Background="White">
+                <Button x:Name="CloseBtn" Click="CloseBtn_Click" Grid.Column="1" Content="X" HorizontalAlignment="Left" Margin="370,350,0,0" VerticalAlignment="Top" Background="LightGray" Foreground="Red" Command="{Binding ElementName=HelpPopup, Mode=OneWay}" Width="26" FontWeight="Bold"/>
+                <TextBlock Text="Test"/>
+            </StackPanel>
+        </Popup>
     </Grid>
 </Page>

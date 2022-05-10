@@ -38,5 +38,15 @@ namespace Monopoly
             NavigationService ns = NavigationService.GetNavigationService(this);
             ns.Navigate(new Uri("Game.xaml", UriKind.Relative));
         }
+
+        private void HelpBtn_Click(object sender, RoutedEventArgs e)
+        {
+            HelpPopup.IsOpen = true;
+        }
+
+        private void CloseBtn_Click(object sender, RoutedEventArgs e)
+        {
+            HelpPopup.IsOpen = false;
+        }
     }
 }

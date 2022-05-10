@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\Skrivebord\\Personal-Projects\\C#\\monopoly\\Monopoly\\Monopoly\\Monopoly.csproj": {}
+    "C:\\Users\\katri\\OneDrive\\Dokumenter\\Coding projects\\Monopoly\\Monopoly\\Monopoly\\Monopoly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\Skrivebord\\Personal-Projects\\C#\\monopoly\\Monopoly\\Monopoly\\Monopoly.csproj": {
+    "C:\\Users\\katri\\OneDrive\\Dokumenter\\Coding projects\\Monopoly\\Monopoly\\Monopoly\\Monopoly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\Skrivebord\\Personal-Projects\\C#\\monopoly\\Monopoly\\Monopoly\\Monopoly.csproj",
+        "projectUniqueName": "C:\\Users\\katri\\OneDrive\\Dokumenter\\Coding projects\\Monopoly\\Monopoly\\Monopoly\\Monopoly.csproj",
         "projectName": "Monopoly",
-        "projectPath": "C:\\Users\\patri\\Skrivebord\\Personal-Projects\\C#\\monopoly\\Monopoly\\Monopoly\\Monopoly.csproj",
-        "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\Skrivebord\\Personal-Projects\\C#\\monopoly\\Monopoly\\Monopoly\\obj\\",
+        "projectPath": "C:\\Users\\katri\\OneDrive\\Dokumenter\\Coding projects\\Monopoly\\Monopoly\\Monopoly\\Monopoly.csproj",
+        "packagesPath": "C:\\Users\\katri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katri\\OneDrive\\Dokumenter\\Coding projects\\Monopoly\\Monopoly\\Monopoly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\katri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -61,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

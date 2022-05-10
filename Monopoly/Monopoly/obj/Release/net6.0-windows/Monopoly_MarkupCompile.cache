@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\katri\OneDrive\Dokumenter\Projects\Monopoly\Monopoly\Monopoly\obj\Release\net6.0-windows\
+C:\Users\katri\OneDrive\Dokumenter\Coding projects\Monopoly\Monopoly\Monopoly\obj\Release\net6.0-windows\
 Monopoly
 none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
-C:\Users\katri\OneDrive\Dokumenter\Projects\Monopoly\Monopoly\Monopoly\App.xaml
-11407045341
+C:\Users\katri\OneDrive\Dokumenter\Coding projects\Monopoly\Monopoly\Monopoly\App.xaml
+3-1345771539
 
-3-1233169557
+22-2123568906
 194-1951243044
-MainWindow.xaml;
+Game.xaml;MainWindow.xaml;Menu.xaml;
 
 True
 
